@@ -1,0 +1,5 @@
+1	Database
+2	Artificial Intelligence
+3	Mobile Computing
+4	Operating System
+5	Human Computer Interaction
